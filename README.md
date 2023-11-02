@@ -4,7 +4,7 @@ Welcome to my resume repository! This is where you can find my up-to-date profes
 
 ## Resume
 
-- [View My Resume](https://github.com/Usama-Iftikhar-Ali/Resume) - Access my latest resume to learn more about my skills, experience, and qualifications.
+- [View My Resume](https://usama-iftikhar-ali.github.io/Resume/) - Access my latest resume to learn more about my skills, experience, and qualifications.
 
 ## Project Description
 
